@@ -1,0 +1,7 @@
+{
+    "name": "My Expree App - Production",
+    "mail":{
+        "host": "prod-mail-server",
+        "password": "app_password"
+    }
+}
